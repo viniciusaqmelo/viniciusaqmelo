@@ -19,8 +19,8 @@
 ##
 
 <div>
-
-<a href="vwww.linkedin.com/in/"https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target='_blank'>
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="icone do Linkedln">
-        </a>
+  <a href="https://www.linkedin.com/in/seu-perfil" target='_blank'>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ícone do LinkedIn">
+  </a>
 </div>
+
