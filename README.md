@@ -19,7 +19,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/seu-perfil" target='_blank'>
+  <a href="www.linkedin.com/in/vinícius-aquino-446b11233" target='_blank'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ícone do LinkedIn">
   </a>
 </div>
