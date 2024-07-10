@@ -1,6 +1,6 @@
 ### Olá eu sou Vinícius Aquino 
 
-- 💻 Estudando programação front-end/back-end e Segurança da informação
+- 💻 Studying front-end/back-end programming and Cybersecurity.
 - 📫 Email: vinicius.aquino2610@gmail.com
 
 ![vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusaqmelo&show_icons=true&theme=transparent)
