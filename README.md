@@ -1,4 +1,4 @@
-### Olá eu sou Vinícius Aquino 
+### Hi there i'm Aquino
 
 - 💻 Studying front-end/back-end programming and Cybersecurity.
 - 📫 Email: vinicius.aquino2610@gmail.com
